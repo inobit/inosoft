@@ -1,16 +1,16 @@
 {
-    "version": "1.0.0",
+    "version": "1.1.0",
     "description": "跨平台（Windows/macOS/Linux）CPU 与内存采样 daemon，为 wezterm 状态栏提供数据",
     "homepage": "https://github.com/inobit/sys-metrics",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/inobit/sys-metrics/releases/download/v1.0.0/sys-metrics_1.0.0_windows_amd64.zip",
-            "hash": "b43345050bb5f992a5f2b45900864a5a07e4471cecaa5d9d92400db3a03fab96"
+            "url": "https://github.com/inobit/sys-metrics/releases/download/v1.1.0/sys-metrics_1.1.0_windows_amd64.zip",
+            "hash": "a825cdb51dc76e4b8ec20fc1b194e73df1aab76c4d6473d6b995fb9419237c4a"
         },
         "arm64": {
-            "url": "https://github.com/inobit/sys-metrics/releases/download/v1.0.0/sys-metrics_1.0.0_windows_arm64.zip",
-            "hash": "10d8f1908a66b84cb5fc479b8a6dbcb84d8c3e0cefc96a98e26d1996bd926d16"
+            "url": "https://github.com/inobit/sys-metrics/releases/download/v1.1.0/sys-metrics_1.1.0_windows_arm64.zip",
+            "hash": "36295c0f92c11d328013f31134ea555427a0a416fc216911f2dee8666bed5eca"
         }
     },
     "bin": "sys-metrics.exe",
